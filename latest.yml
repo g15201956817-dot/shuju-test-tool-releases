@@ -1,8 +1,8 @@
-version: 1.0.4
+version: 1.0.5
 files:
-  - url: 自动化测试平台 Setup 1.0.4.exe
-    sha512: vV47IHEr8HRx7GIiUswLptlabkp/+w6jfFH9MvkncGF9Fh5EacomFQs22skQTq0vee8cidO1TwXXqGQtZVYRsQ==
-    size: 78842201
-path: 自动化测试平台 Setup 1.0.4.exe
-sha512: vV47IHEr8HRx7GIiUswLptlabkp/+w6jfFH9MvkncGF9Fh5EacomFQs22skQTq0vee8cidO1TwXXqGQtZVYRsQ==
-releaseDate: '2026-09-07T07:20:38.057Z'
+  - url: 自动化测试平台 Setup 1.0.5.exe
+    sha512: 0XzI+CoZEz+rZFuDX/ZMO14pJPkUAiYbZQix5C85wYxreUzBhF9KHFBvRoRw+qncSlRKm6Vbpn3NMphO9wwgpA==
+    size: 78843914
+path: 自动化测试平台 Setup 1.0.5.exe
+sha512: 0XzI+CoZEz+rZFuDX/ZMO14pJPkUAiYbZQix5C85wYxreUzBhF9KHFBvRoRw+qncSlRKm6Vbpn3NMphO9wwgpA==
+releaseDate: '2026-09-07T07:42:49.830Z'
